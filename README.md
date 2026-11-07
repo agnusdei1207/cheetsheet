@@ -10,8 +10,8 @@
 
 | 경로 | 내용 |
 |---|---|
-| [cheatsheets/](cheatsheets/README.md) | 대상(도메인) 기준 치트시트 모음 — recon, active-directory, web, services, shells, cracking, metasploit, linux, windows, pivoting, forensics, cve, common |
-| [oscp/](oscp/README.md) | OSCP 시험 대비 치트시트 — 방법론·전략부터 AD·피벗·리포트까지 20개 주제 |
+| [docs/cheatsheets/](docs/cheatsheets/README.md) | 대상(도메인) 기준 치트시트 모음 — recon, active-directory, web, services, shells, cracking, metasploit, linux, windows, pivoting, forensics, cve, common |
+| [docs/oscp/](docs/oscp/README.md) | OSCP 시험 대비 치트시트 — 방법론·전략부터 AD·피벗·리포트까지 20개 주제 |
 
 ## 작성 규칙 (요약)
 
