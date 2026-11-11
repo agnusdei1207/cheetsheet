@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://api.iconify.design/mdi/notebook.svg?color=%23FFFFFF" alt="치트시트 아이콘" width="150" />
+  <img src="https://api.iconify.design/mdi/notebook.svg?color=%23FFFFFF" alt="Cheatsheet icon" width="150" />
 </div>
 
-# cheetsheet
+# Cheatsheet
 
-침투 테스트 치트시트 전용 저장소입니다. kali 저장소의 `docs/cheatsheets/`를 복제해 두었고, heretek.dev의 OSCP 치트시트를 재구성한 OSCP 정리본이 별도로 있다.
+Penetration testing cheatsheets repository. A copy of `docs/cheatsheets/` from the Kali repository, plus an OSCP preparation summary reconstructed from hererek.dev.
 
-## 문서 지도
+## Document Map
 
-| 경로 | 내용 |
+| Path | Content |
 |---|---|
-| [docs/cheatsheets/](docs/cheatsheets/README.md) | 대상(도메인) 기준 치트시트 모음 — recon, active-directory, web, services, shells, cracking, metasploit, linux, windows, pivoting, forensics, cve, common |
-| [docs/oscp/](docs/oscp/README.md) | OSCP 시험 대비 치트시트 — 방법론·전략부터 AD·피벗·리포트까지 20개 주제 |
+| [docs/cheatsheets/](docs/cheatsheets/README.md) | Target-domain cheatsheets — recon, active-directory, web, services, shells, cracking, metasploit, linux, windows, pivoting, forensics, cve, common |
+| [docs/oscp/](docs/oscp/README.md) | OSCP exam preparation cheatsheets — methodology, strategy, enumeration, AD, pivoting, reporting (~20 topics) |
 
-## 작성 규칙 (요약)
+## Writing Rules (Summary)
 
-- 표를 쓰지 않는다. 목록·코드 블록으로 풀어 쓴다.
-- 볼드(`**`) 강조를 쓰지 않는다. 제목·목록·코드 블록으로 대신한다.
-- 도해는 ASCII 그래프. Mermaid는 쓰지 않는다.
-- 파일명은 약어 없이 끝까지 적는다. (예: `xss_exfiltration.md`)
-- 명령어·페이로드 중심, 설명은 최소한으로.
-- 법적·윤리 면책 문구는 반복하지 않는다.
+- Do not use tables. Use lists and code blocks.
+- Do not use bold (**) emphasis. Use headings, lists, and code blocks instead.
+- Diagrams use ASCII art. No Mermaid.
+- File names are spelled out. No abbreviations.
+- Command and payload focused, minimal explanations.
+- Do not repeat legal/ethical disclaimer phrases.
