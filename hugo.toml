@@ -1,0 +1,112 @@
+baseURL = "https://agnusdei207.github.io/cheetsheet/"
+title = "agnusdei207"
+locale = "ko"
+defaultContentLanguage = "ko"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[minify]
+  disableXML = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  env = "production"
+  title = "agnusdei207"
+  description = "OSCP 준비를 위한 치트시트, 방법론, 도구 모음"
+  author = "agnusdei207"
+  keywords = ["OSCP", "치트시트", "방법론", "도구", "모의해킹", "침투테스트"]
+  defaultTheme = "dark"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = "agnusdei207"
+    Content = "OSCP 준비를 위한 명령어와 방법론 레퍼런스 — 치트시트, 방법론, 도구를 한 곳에서."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/agnusdei207"
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
+
+[menu]
+  [[menu.main]]
+    identifier = "cheatsheets"
+    name = "치트시트"
+    url = "/oscp-cheatsheet/"
+    weight = 10
+  [[menu.main]]
+    identifier = "methodology"
+    name = "방법론"
+    url = "/methodology/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tools"
+    name = "도구"
+    url = "/tools/"
+    weight = 30
+  [[menu.main]]
+    identifier = "search"
+    name = "검색"
+    url = "/search/"
+    weight = 40
+
+[languages]
+  [languages.ko]
+    label = "한국어"
+    contentDir = "content"
+    weight = 1
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    lineNos = false
+    style = "monokai"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[privacy]
+  [privacy.x]
+    disable = false
+    simple = true

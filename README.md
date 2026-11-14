@@ -1,23 +1,21 @@
-<div align="center">
-  <img src="https://api.iconify.design/mdi/notebook.svg?color=%23FFFFFF" alt="Cheatsheet icon" width="150" />
-</div>
+# agnusdei207 — OSCP Cheatsheet
 
-# Cheatsheet
+OSCP 준비를 위한 치트시트, 방법론, 도구 모음. [heretek.dev/oscp-cheatsheet](https://heretek.dev/oscp-cheatsheet/) 디자인(Hugo + PaperMod)을 그대로 가져와 한국어로 정리했다.
 
-Penetration testing cheatsheets repository. A copy of `docs/cheatsheets/` from the Kali repository, plus an OSCP preparation summary reconstructed from hererek.dev.
+## 구조
 
-## Document Map
-
-| Path | Content |
+| 경로 | 내용 |
 |---|---|
-| [docs/cheatsheets/](docs/cheatsheets/README.md) | Target-domain cheatsheets — recon, active-directory, web, services, shells, cracking, metasploit, linux, windows, pivoting, forensics, cve, common |
-| [docs/oscp/](docs/oscp/README.md) | OSCP exam preparation cheatsheets — methodology, strategy, enumeration, AD, pivoting, reporting (~20 topics) |
+| `content/oscp-cheatsheet/` | OSCP 치트시트 (~20개 주제) |
+| `content/methodology/` | AD 공격 방법론, 열거 워크플로 |
+| `content/tools/` | BloodHound, Impacket 가이드 |
 
-## Writing Rules (Summary)
+## 빌드
 
-- Do not use tables. Use lists and code blocks.
-- Do not use bold (**) emphasis. Use headings, lists, and code blocks instead.
-- Diagrams use ASCII art. No Mermaid.
-- File names are spelled out. No abbreviations.
-- Command and payload focused, minimal explanations.
-- Do not repeat legal/ethical disclaimer phrases.
+```bash
+hugo --gc --minify
+```
+
+## 배포
+
+`main` 브랜치 푸시 시 GitHub Actions 가 자동으로 GitHub Pages 에 배포한다.
