@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Http on agnusdei207</title>
+    <link>https://agnusdei207.github.io/cheetsheet/tags/http/</link>
+    <description>Recent content in Http on agnusdei207</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agnusdei207.github.io/cheetsheet/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>내 열거 워크플로 — 무엇을 돌리고 왜 돌리는지</title>
+      <link>https://agnusdei207.github.io/cheetsheet/methodology/enumeration-workflow/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/methodology/enumeration-workflow/</guid>
+      <description>내가 매 박스에서 쓰는 열거 방법론. 포트 스캔, 서비스 열거, 무엇을 먼저 확인할지.</description>
+    </item>
+  </channel>
+</rss>

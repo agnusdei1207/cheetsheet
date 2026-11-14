@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OSCP 치트시트 on agnusdei207</title>
+    <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/</link>
+    <description>Recent content in OSCP 치트시트 on agnusdei207</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active Directory 도구 (AD Tools)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/active-directory-tools/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/active-directory-tools/</guid>
+      <description>OSCP cheatsheet — Active Directory 도구 (AD Tools). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>Active Directory 플레이북 (AD Playbook)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/active-directory-playbook/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/active-directory-playbook/</guid>
+      <description>OSCP cheatsheet — Active Directory 플레이북 (AD Playbook). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>AV 우회 (AV Evasion)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/av-evasion/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/av-evasion/</guid>
+      <description>OSCP cheatsheet — AV 우회 (AV Evasion). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>Ligolo-ng</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/ligolo-ng/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/ligolo-ng/</guid>
+      <description>OSCP cheatsheet — Ligolo-ng. 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>Linux 권한 상승 (Linux Privilege Escalation)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/linux-privilege-escalation/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/linux-privilege-escalation/</guid>
+      <description>OSCP cheatsheet — Linux 권한 상승 (Linux Privilege Escalation). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>OSCP 방법론 총정리 (Methodology)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/methodology/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/methodology/</guid>
+      <description>OSCP cheatsheet — OSCP 방법론 총정리 (Methodology). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>OSCP 시험 전략 (Exam Strategy)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/exam-strategy/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/exam-strategy/</guid>
+      <description>OSCP cheatsheet — OSCP 시험 전략 (Exam Strategy). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>SQL 인젝션 (SQL Injection)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/sql-injection/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/sql-injection/</guid>
+      <description>OSCP cheatsheet — SQL 인젝션 (SQL Injection). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>Windows Privilege Escalation (English Version)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/windows-privilege-escalation/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/windows-privilege-escalation/</guid>
+      <description>OSCP cheatsheet — Windows Privilege Escalation (English Version). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>리포트 작성 (Report Writing)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/report-writing/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/report-writing/</guid>
+      <description>OSCP cheatsheet — 리포트 작성 (Report Writing). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>버퍼 오버플로 &amp; 익스플로잇 수정 (Buffer Overflows &amp; Exploit Fixing)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/buffer-overflows/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/buffer-overflows/</guid>
+      <description>OSCP cheatsheet — 버퍼 오버플로 &amp;amp; 익스플로잇 수정 (Buffer Overflows &amp;amp; Exploit Fixing). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>쉘 &amp; 파일 전송 (Shells &amp; Transfers)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/shells-and-transfers/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/shells-and-transfers/</guid>
+      <description>OSCP cheatsheet — 쉘 &amp;amp; 파일 전송 (Shells &amp;amp; Transfers). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>열거 (Enumeration)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/enumeration/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/enumeration/</guid>
+      <description>OSCP cheatsheet — 열거 (Enumeration). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>웹 공격 (Web Attacks)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/web-attacks/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/web-attacks/</guid>
+      <description>OSCP cheatsheet — 웹 공격 (Web Attacks). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>크로스 컴파일 (Cross-Compiling)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/cross-compiling/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/cross-compiling/</guid>
+      <description>OSCP cheatsheet — 크로스 컴파일 (Cross-Compiling). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>클라이언트 사이드 공격 (Client-Side Attacks)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/client-side-attacks/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/client-side-attacks/</guid>
+      <description>OSCP cheatsheet — 클라이언트 사이드 공격 (Client-Side Attacks). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>패스워드 공격 (Password Attacks)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/password-attacks/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/password-attacks/</guid>
+      <description>OSCP cheatsheet — 패스워드 공격 (Password Attacks). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>피벗팅 &amp; 터널링 (Pivoting &amp; Tunneling)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/pivoting-and-tunneling/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/pivoting-and-tunneling/</guid>
+      <description>OSCP cheatsheet — 피벗팅 &amp;amp; 터널링 (Pivoting &amp;amp; Tunneling). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>해시 유형 (Hash Types)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/hash-types/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/hash-types/</guid>
+      <description>OSCP cheatsheet — 해시 유형 (Hash Types). 명령어와 방법론 레퍼런스.</description>
+    </item>
+    <item>
+      <title>후속 공격 (Post-Exploitation)</title>
+      <link>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/post-exploitation/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://agnusdei207.github.io/cheetsheet/oscp-cheatsheet/post-exploitation/</guid>
+      <description>OSCP cheatsheet — 후속 공격 (Post-Exploitation). 명령어와 방법론 레퍼런스.</description>
+    </item>
+  </channel>
+</rss>
